@@ -1,0 +1,6 @@
+Rencana pemrograman saya tahun 2021
+- Selesaikan MVC PHP
+- Selesaikan OOP PHP
+- Belajar CodeIgniter
+- Belajar Git & GitHub
+- Belajar API & REST API
