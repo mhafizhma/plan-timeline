@@ -4,3 +4,6 @@ Rencana pemrograman saya tahun 2021
 - Belajar CodeIgniter
 - Belajar Git & GitHub
 - Belajar API & REST API
+- Belajar Modern JavaScript
+- Belajar NodeJS
+- Belajar React
